@@ -51,7 +51,6 @@ and the server will run then go to localhost:8000/predict_gdp by using postman t
 
 - For example to test for europe, we should provide our json like below, only using WEO subject codes 
 `{
-
     "LE": 0,
     "NGSD_NGDP": 15.746,
     "PCPIEPCH": 3,
