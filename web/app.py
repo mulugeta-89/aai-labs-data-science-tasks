@@ -29,7 +29,7 @@ def predict_gdp():
     # Predict GDP per capita using the loaded model
     try:
         predicted_gdp_per_capita = model.predict(new_data)[0]
-    except Exception as e:
+    except Exception:
         return "Invalid Features Given", 500
 
     # Return predicted GDP per capita as JSON response
