@@ -60,5 +60,5 @@ and the server will run then go to localhost:8000/predict_gdp by using postman t
 }`
 
 4. The test file is found in the web folder and the file name is test.py.
-To run the test file, run below code to the terminal
+To run the test file, run below command to the terminal
 `python test.py`
