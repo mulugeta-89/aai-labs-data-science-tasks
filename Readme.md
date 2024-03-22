@@ -32,7 +32,7 @@ All files related to the task are stored in the `web ` folder.
 
 ### API development
 
-All the endpoints are found in `app.py` file. This files contains endpoint related to predicting GDP per capita for each continens.
+All the endpoints are found in `app.py` file. This files contains endpoint related to predicting GDP per capita for each continents.
 
 To run the file:
 
